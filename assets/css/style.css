@@ -5,7 +5,8 @@ body {
 
 body {
   text-align: center;
-  background: grey;
+  background: rgb(184, 103, 103);
+
 }
 
 #wrapper {
@@ -53,11 +54,11 @@ h3 {
 
 #start {
   margin-top: 10%;
-  background: greenyellow;
-  border: 2px;
+  background: darkgrey;
+  border: 2px solid blue;
 }
 
-#quiz-area h2 {
+#trivia-game h2 {
   margin-top: 50px;
 }
 
